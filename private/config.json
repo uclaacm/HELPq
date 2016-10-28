@@ -1,7 +1,7 @@
 {
   "admin": {
     "username": "admin",
-    "password": "hunter2"
+    "password": "hackislife"
   },
   "github": {
     "enable": false,
@@ -9,9 +9,9 @@
     "secret": "github-secret"
   },
   "facebook": {
-    "enable": false,
-    "appId": "facebook-client-id",
-    "secret": "facebook-secret"
+    "enable": true,
+    "appId": "1665744190384659",
+    "secret": "cc2ccf00cc48edf2e31110c1e2d850e6"
   },
   "google": {
     "enable": false,
@@ -22,5 +22,5 @@
     "queueEnabled": true,
     "expirationDelay": 1800000
   },
-  "defaultMentor": true
+  "defaultMentor": false
 }
