@@ -4,12 +4,12 @@
     "password": "hackislife"
   },
   "github": {
-    "enable": false,
-    "clientId": "github-client-id",
-    "secret": "github-secret"
+    "enable": true,
+    "clientId": "5b34f34d6b422a3a8c9b",
+    "secret": "5e7059415955bbdb9006647cddd289f0e87e6a2d"
   },
   "facebook": {
-    "enable": true,
+    "enable": false,
     "appId": "1665744190384659",
     "secret": "cc2ccf00cc48edf2e31110c1e2d850e6"
   },
